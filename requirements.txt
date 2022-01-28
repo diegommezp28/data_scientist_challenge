@@ -1,6 +1,7 @@
 jupyter==1.0.0
-torch==1.10.1
-torchvision==0.11.2
 matplotlib
 pandas
 opencv-python
+
+#install this by hand for cuda Support: conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+#ref: https://pytorch.org/
